@@ -10,7 +10,7 @@
         "/TPWCat/favicon.ico",
         "/TPWCat/index.html",
         "/TPWCat/inline.318b50c57b4eba3d437b.bundle.js",
-        "/TPWCat/main.cce33226f5c13608e834.bundle.js",
+        "/TPWCat/main.867331db5046b625d61e.bundle.js",
         "/TPWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
         "/TPWCat/styles.42f418400b00d7fbd4cc.bundle.css"
       ],
@@ -37,7 +37,7 @@
   "hashTable": {
     "/TPWCat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/TPWCat/assets/404.png": "c1092f47ea24881cb3099cac55c4c6c7d9114ca2",
-    "/TPWCat/main.cce33226f5c13608e834.bundle.js": "5b090b3d1042de77ad151389485b0015c9c3302c",
+    "/TPWCat/main.867331db5046b625d61e.bundle.js": "2119e0f1a7d3e2148e98a052d8935aaf868a878b",
     "/TPWCat/assets/animais-7.jpg": "a57a3421592f66f1125665104a002c7ba16d3173",
     "/TPWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
     "/TPWCat/assets/icon-128x128.png": "17eee5709aaa25c2310c5192490b75620d71bda5",
@@ -45,7 +45,7 @@
     "/TPWCat/assets/icon-152x152.png": "594dd96a5d1ad5f524c84c7a88d54608b19a25b7",
     "/TPWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/TPWCat/assets/icon-256x256.png": "926dc3f890505a4a9ef425ac35e1ff71c14e5dc9",
-    "/TPWCat/index.html": "1c0a299b819f2b78ba82f33e27a36d26212d420d",
+    "/TPWCat/index.html": "87b32989df60e5c89783a714721c2399885be725",
     "/TPWCat/assets/icon-512x512.png": "8e2534f22a0a58d1cb622edebc10f6bf22706839"
   }
 }
